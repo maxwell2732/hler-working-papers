@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1168322950.svg)](https://doi.org/10.5281/zenodo.18802348)
 # Human-in-the-Loop Economic Research (HLER) Lab  
 # 人机协作-经济学研究实验室
 
