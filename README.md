@@ -1,5 +1,5 @@
 # Human-in-the-Loop Economic Research (HLER) Lab  
-# 人机协作经济学研究实验室
+# 人机协作-经济学研究实验室
 
 *An ongoing experiment in preserving human judgment in the age of vibe research.*  
 *在Vibe Research的自动化科研时代，强调人类判断权的一次持续实验。*
@@ -129,6 +129,7 @@ China Agricultural University
 ## Contact ｜ 联系方式
 
 For academic collaboration or discussion, please contact via institutional email: zhuchen@cau.edu.cn
+
 学术交流与合作欢迎通过机构邮箱联系：zhuchen@cau.edu.cn
 
 
