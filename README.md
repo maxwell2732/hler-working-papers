@@ -121,8 +121,8 @@ The underlying research system is not included.
 
 ## Author ｜ 作者
 
-**Chen Zhu 朱晨**  
-China Agricultural University 中国农业大学
+**Chen Zhu 朱晨** ｜ China Agricultural University 中国农业大学
+
 Special thanks to Dr. Xiaolu Wang 感谢王晓璐博士的特别支持
 
 ---
