@@ -109,11 +109,11 @@ print(coeftest(model_post, vcov = vcovHC(model_post, "HC3")))
 dir.create("tables", showWarnings = FALSE)
 
 modelsummary(list("(1)" = model_es),
-            output = "tables/hler_wp_072_results.tex",
+            output = "tables/hler_wp_020_results.tex",
             title  = "Main Regression Results")
 
 modelsummary(list("(1)" = model_es),
-            output = "tables/hler_wp_072_results.csv")
+            output = "tables/hler_wp_020_results.csv")
 
 # ======================================================================
 # ---------------------------------------------------------------------------
@@ -167,4 +167,5 @@ if (file.exists("python_coefficients.json")) {
   if (all_ok) cat("All coefficients match within tolerance (1e-6).\n")
 } else {
   message("python_coefficients.json not found — skipping consistency check.")
+
 }
