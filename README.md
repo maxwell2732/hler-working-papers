@@ -40,25 +40,11 @@ They are iterative, revisable, and open to critique.
 
 本系列更强调科研结构的探索。
 
+**2026/03/08更新**：增加 R script（从hler_wp_019开始）
+
 ---
 ## Pipeline Overview of the HLER Framework｜ HLER研究流程结构
-![HLER workflow](hler-working-papers/IMG/260308_hler_fig1.png)
-```
-Human PI
-   │  (1) selects question          │  (2) approves publication
-   │                                │
-   ▼                                ▼
-┌────────────────────────────────────────────────────────────┐
-│                      ORCHESTRATOR                          │
-│      owns RunState · dispatches tasks · manages gates      │
-└──┬────────┬──────────┬──────────┬──────────┬──────────┬────┘
-   │        │          │          │          │          │
-   ▼        ▼          ▼          ▼          ▼          ▼
-Data     Question    Data     Econometrics  Paper    Reviewer
-Audit     Agent      Agent      Agent       Agent     Agent
-Agent               
-```
-
+![HLER workflow](IMG/260308_hler_fig1.png)
 
 
 ### Core Stages ｜ 核心阶段
