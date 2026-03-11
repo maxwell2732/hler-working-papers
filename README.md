@@ -5,6 +5,17 @@
 *An ongoing experiment in preserving human judgment in the age of vibe research.*  
 *在Vibe Research的自动化科研时代，强调人类判断权的一次持续实验。*
 
+**Preprint is now online (2026/03/11):** https://doi.org/10.48550/arXiv.2603.07444
+<p align="center">
+<table>
+<tr>
+<td>
+<img src="IMG/微信图片_20260310113459_1461_441.png" width="350">
+</td>
+</tr>
+</table>
+</p>
+
 ---
 
 ## About the Lab ｜ 实验室简介
@@ -44,7 +55,16 @@ They are iterative, revisable, and open to critique.
 
 ---
 ## Pipeline Overview of the HLER Framework｜ HLER研究流程结构
-![HLER workflow](IMG/260308_hler_fig1.png)
+
+<p align="center">
+<table>
+<tr>
+<td>
+<img src="IMG/260308_hler_fig1.png" width="750">
+</td>
+</tr>
+</table>
+</p>
 
 
 ### Core Stages ｜ 核心阶段
