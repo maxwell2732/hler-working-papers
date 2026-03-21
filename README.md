@@ -53,6 +53,8 @@ They are iterative, revisable, and open to critique.
 
 **2026/03/08更新**：增加 R script（从hler_wp_019开始）
 
+**2026/03/21更新**：第一次试用 Doubao Seed 2.0 Pro API （hler_wp_028），bugs need to be fixed
+
 ---
 ## Pipeline Overview of the HLER Framework｜ HLER研究流程结构
 
